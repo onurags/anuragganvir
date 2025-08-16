@@ -12,7 +12,7 @@
 
 - 🕵 Exploring **Cloud**
 
-- 👨‍💻 All of my projects are available [Here](https://github.com/anuragganvir?tab=repositories)
+- 👨‍💻 All of my projects are available [Here](https://github.com/onurags?tab=repositories)
 
 - 📫 How to reach me **anuragganvir2019@gmail.com**
 
