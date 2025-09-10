@@ -8,7 +8,7 @@
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 ### 🙋‍♂️ About Me
-- 📚 Pursuing Engineering in ECE from **PES Modern College Of Engineering, Pune**
+- 📚 Graduate in ECE from **PES Modern College Of Engineering, Pune**
 
 - 🕵 Exploring **Cloud**
 
